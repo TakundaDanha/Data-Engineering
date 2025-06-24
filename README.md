@@ -1,7 +1,3 @@
-Sure! Here’s a clear, professional README for your project that explains what it does, how to set it up, and how to run it:
-
----
-
 # SQL Server Data Analysis with PySpark
 
 This project demonstrates how to connect to a Microsoft SQL Server database using PySpark, run complex queries by joining multiple tables, and perform data analysis tasks such as ranking customer orders and checking room availability.
